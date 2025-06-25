@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+#thala{
+  border:5pt solid black;
+  width:50%;
+  margin-left: 25%;
+  margin-top: 25%;
+
+}
+img{
+    width: 100%;
+    border: 10pt solid pink
+    
+   
+}
+h1{
+  color: aliceblue;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+p{
+  color: aliceblue;
+  text-align: center;
+}
