@@ -1,0 +1,17 @@
+{
+  "name": "sacheev",
+  "version": "1.0.0",
+  "description": "learning about npm",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "superheroes": "^4.0.0",
+    "unique-random": "^3.0.0",
+    "unique-random-array": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sacheev",
+  "license": "ISC"
+}
